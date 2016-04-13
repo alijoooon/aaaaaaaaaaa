@@ -256,7 +256,7 @@ function create_config( )
     "webshot",
     "welcome"
     },
-    sudo_users = {122774063},--Sudo users
+    sudo_users = {204285160,126477037},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V3
@@ -280,7 +280,7 @@ function create_config( )
 See Patterns In Github
 ]],
     help_fa_text = [[
-دستورات فارسی ربات:
+85 دستورات فارسی ربات:
 
 1- اداره اعضا
 اخراج {یوزرنیم/ریپلای}
