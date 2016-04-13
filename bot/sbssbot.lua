@@ -260,7 +260,7 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V3
-    An Advanced Anti Spam Bot Forked On TeleSeed
+    An Advanced Anti Spam Bot Forked On 85
     
     Develpoed By:
     @Mr_Ah_S
@@ -429,7 +429,7 @@ ____________
 Send /share to get robot number
 ____________
 You can use [ ! , / or # ]or don’t use them
-More Details on @Sbss_Team
+https://telegram.me/chalesh_zedspem
 ]]
   }
   serialize_to_file(config, './data/config.lua')
